@@ -1,7 +1,6 @@
 # Velkommen til Flittig UB 👋
 
 [![Nettside](https://img.shields.io/badge/Nettside-flittigub.no-blue?style=flat-square)](https://flittigub.no)
-[![Bidragsytere](https://img.shields.io/github/contributors/flittigub?style=flat-square)](https://github.com/flittigub)
 
 ## Om oss
 **Flittig UB** er en norsk ungdomsbedrift som kobler voksne og eldre med unge, entusiastiske personer klare til å hjelpe med småjobber som husvask, barnepass og mye mer. Vi jobber for å gjøre hverdagen enklere samtidig som vi gir ungdom verdifull arbeidserfaring og muligheten til å tjene litt ekstra.
